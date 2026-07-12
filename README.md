@@ -1,6 +1,10 @@
-# 💫 About Me:
-- 🔭 I’m currently working on improving my skills in **programming, cloud computing, and AI-based projects**<br>- 🤝 I’m looking to collaborate on **open-source projects, especially in AI, web development, and cloud technologies**<br>- 🛠️ I’m looking for help with **advanced system design, scalable applications, and real-world project building**<br>- 🌱 I’m currently learning **Machine Learning, AWS, and backend development**<br>- 💬 Ask me about **Python, basic ML concepts, cloud fundamentals, and problem-solving**<br>- ⚡ Fun fact: I enjoy turning ideas into projects… and occasionally fixing bugs at 2 AM like every other developer<br>
+# 💫 About Me
 
+- 💻 CSE (Cloud) Student
+- ☁️ Learning AI, Machine Learning & Cloud Computing
+- 🚀 Project Leader @ GSSoC'26
+- 🌱 Building open-source and AI-powered projects
+- 🤝 Open to collaboration on AI, Backend & Cloud
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rajaman_18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajaman18) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajaman22647465@gmail.com) 
