@@ -1,11 +1,17 @@
 # 💫 About Me
 
 - 💻 CSE (Cloud) Student
-- ☁️ Learning AI, Machine Learning & Cloud Computing
 - 🚀 Project Leader @ GSSoC'26
+- 📂 Leading: User-Friendly System Call Interface for Enhanced Security
+- ☁️ Learning AI, Machine Learning & Cloud Computing
 - 🌱 Building open-source and AI-powered projects
-- 🤝 Open to collaboration on AI, Backend & Cloud
+- 🤝 Always excited to collaborate on impactful open-source projects
+  <br>
+## 🚀 GSSoC'26 Project
 
+🔗 **Repository:**  
+https://github.com/sushantranjan912/User-Friendly-System-Call-Interface-for-Enhanced-Security
+<br><br>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rajaman_18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajaman18) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajaman22647465@gmail.com) 
 
