@@ -1,4 +1,8 @@
-# 💫 About Me
+<h1>🪐 About Me</h1>
+
+<table>
+<tr>
+<td width="65%" valign="top">
 
 - 💻 CSE (Cloud) Student
 - 🚀 Project Leader @ GSSoC'26
@@ -6,7 +10,16 @@
 - ☁️ Learning AI, Machine Learning & Cloud Computing
 - 🌱 Building open-source and AI-powered projects
 - 🤝 Always excited to collaborate on impactful open-source projects
-  <br>
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+
+</td>
+</tr>
+</table>
+
 ## 🚀 GSSoC'26 Project
 
 🔗 **Repository:**  
